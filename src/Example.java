@@ -3,4 +3,3 @@ public class Example {
         System.out.println("Text o to be printed!");
     }
 }
-4+
